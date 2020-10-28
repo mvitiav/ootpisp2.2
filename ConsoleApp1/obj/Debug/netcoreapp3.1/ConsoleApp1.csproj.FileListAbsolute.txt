@@ -1,0 +1,16 @@
+G:\SPP\2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+G:\SPP\2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+G:\SPP\2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+G:\SPP\2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+G:\SPP\2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+G:\SPP\2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+G:\SPP\2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+G:\SPP\2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\SPP\2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+G:\SPP\2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+G:\SPP\2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+G:\SPP\2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+G:\SPP\2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+G:\SPP\2\ConsoleApp1\bin\Debug\netcoreapp3.1\PlugBase.dll
+G:\SPP\2\ConsoleApp1\bin\Debug\netcoreapp3.1\PlugBase.pdb
+G:\SPP\2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
