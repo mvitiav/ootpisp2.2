@@ -1,0 +1,9 @@
+G:\SPP\2\PlugBase\bin\Debug\netcoreapp3.1\PlugBase.deps.json
+G:\SPP\2\PlugBase\bin\Debug\netcoreapp3.1\PlugBase.dll
+G:\SPP\2\PlugBase\bin\Debug\netcoreapp3.1\PlugBase.pdb
+G:\SPP\2\PlugBase\obj\Debug\netcoreapp3.1\PlugBase.csprojAssemblyReference.cache
+G:\SPP\2\PlugBase\obj\Debug\netcoreapp3.1\PlugBase.csproj.CoreCompileInputs.cache
+G:\SPP\2\PlugBase\obj\Debug\netcoreapp3.1\PlugBase.AssemblyInfoInputs.cache
+G:\SPP\2\PlugBase\obj\Debug\netcoreapp3.1\PlugBase.AssemblyInfo.cs
+G:\SPP\2\PlugBase\obj\Debug\netcoreapp3.1\PlugBase.dll
+G:\SPP\2\PlugBase\obj\Debug\netcoreapp3.1\PlugBase.pdb

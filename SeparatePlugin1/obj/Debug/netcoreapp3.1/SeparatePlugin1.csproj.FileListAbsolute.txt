@@ -1,0 +1,9 @@
+G:\SPP\2\SeparatePlugin1\bin\Debug\netcoreapp3.1\SeparatePlugin1.deps.json
+G:\SPP\2\SeparatePlugin1\bin\Debug\netcoreapp3.1\SeparatePlugin1.dll
+G:\SPP\2\SeparatePlugin1\bin\Debug\netcoreapp3.1\SeparatePlugin1.pdb
+G:\SPP\2\SeparatePlugin1\obj\Debug\netcoreapp3.1\SeparatePlugin1.csprojAssemblyReference.cache
+G:\SPP\2\SeparatePlugin1\obj\Debug\netcoreapp3.1\SeparatePlugin1.csproj.CoreCompileInputs.cache
+G:\SPP\2\SeparatePlugin1\obj\Debug\netcoreapp3.1\SeparatePlugin1.AssemblyInfoInputs.cache
+G:\SPP\2\SeparatePlugin1\obj\Debug\netcoreapp3.1\SeparatePlugin1.AssemblyInfo.cs
+G:\SPP\2\SeparatePlugin1\obj\Debug\netcoreapp3.1\SeparatePlugin1.dll
+G:\SPP\2\SeparatePlugin1\obj\Debug\netcoreapp3.1\SeparatePlugin1.pdb
